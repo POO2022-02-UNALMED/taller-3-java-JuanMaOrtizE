@@ -18,9 +18,7 @@ public class Control {
 			
 			
 		}
-		else {
-			tv.estado= true;
-		}
+		
 		
 		
 	}
@@ -31,9 +29,7 @@ public class Control {
 			
 			
 		}
-		else {
-			tv.estado= false;
-		}
+		
 		
 		
 	}

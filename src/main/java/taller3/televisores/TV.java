@@ -23,9 +23,6 @@ public class TV {
 			
 			
 		}
-		else {
-			estado= true;
-		}
 		
 		
 	}
@@ -36,9 +33,7 @@ public class TV {
 			
 			
 		}
-		else {
-			estado= false;
-		}
+		
 		
 		
 	}
