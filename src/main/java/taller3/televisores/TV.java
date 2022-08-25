@@ -109,7 +109,7 @@ public class TV {
 	
 
 	public static int getNumTV() {
-		return numTV+1;
+		return numTV;
 	}
 
 
